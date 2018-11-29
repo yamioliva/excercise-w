@@ -4,7 +4,9 @@ Módule REST:
 
 2. npm install
 
-3. node app
+3. Copy and paste your own API key in server/utils/constants.js
+
+4. node app
 
 These routes will work after the app running:
 
